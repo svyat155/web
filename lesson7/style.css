@@ -1,0 +1,19 @@
+header,footer {
+    text-align: center;
+}
+header,main,footer {
+    width: 768px;
+    margin: auto;
+}
+
+.category_box {
+    padding: 10px;
+    margin: 8px;
+    height: 60px;
+    font-weight: 700;
+    color: #000000;
+}
+
+.cd1 {
+    background-color: #2ad;
+}

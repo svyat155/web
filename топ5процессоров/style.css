@@ -1,0 +1,153 @@
+body {
+    background-color: rgba(162, 236, 241, 0.829);
+
+}
+
+footer {
+    background-color: rgba(222, 224, 136, 0.781);
+    width: 290px;
+    padding: 16px;
+    margin: 16px;
+    height: auto;
+    border-radius: 16px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+}
+
+
+.TP {
+    padding: 40px;
+    text-align: center;
+}
+
+header {
+    background-color: rgba(255, 255, 255, 0.829);
+    width: 0 auto;
+    padding: 64px;
+    margin: 16px;
+    height: auto;
+}
+
+.i90 {
+    background-color: rgba(155, 255, 168, 0.205);
+    width: 700px;
+}
+
+.pl1 {
+    background-color: rgba(59, 255, 41, 0.822);
+    width: 696px;
+    height: 190px;
+    border-radius: 16px;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.mn1 {
+    background-color: rgba(255, 41, 41, 0.836);
+    width: 696px;
+    height: 190px;
+    border-radius: 16px;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.R9 {
+    background-color: rgba(155, 255, 168, 0.205);
+    width: 700px;
+}
+
+.pl2 {
+    background-color: rgba(59, 255, 41, 0.822);
+    width: 696px;
+    height: 190px;
+    border-radius: 16px;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.mn2 {
+    background-color: rgba(255, 41, 41, 0.836);
+    width: 696px;
+    height: 190px;
+    border-radius: 16px;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+
+.R7 {
+    background-color: rgba(155, 255, 168, 0.205);
+    width: 700px;
+}
+
+.pl3 {
+    background-color: rgba(59, 255, 41, 0.822);
+    width: 696px;
+    height: 190px;
+    border-radius: 16px;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.mn3 {
+    background-color: rgba(255, 41, 41, 0.836);
+    width: 696px;
+    height: 190px;
+    border-radius: 16px;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.i7147 {
+    background-color: rgba(155, 255, 168, 0.205);
+    width: 700px;
+}
+
+.pl4 {
+    background-color: rgba(59, 255, 41, 0.822);
+    width: 696px;
+    height: 190px;
+    border-radius: 16px;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.mn4 {
+    background-color: rgba(255, 41, 41, 0.836);
+    width: 696px;
+    height: 190px;
+    border-radius: 16px;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.R556 {
+    background-color: rgba(155, 255, 168, 0.205);
+    width: 700px;
+}
+
+.pl5 {
+    background-color: rgba(59, 255, 41, 0.822);
+    width: 696px;
+    height: 190px;
+    border-radius: 16px;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.mn5 {
+    background-color: rgba(255, 41, 41, 0.836);
+    width: 696px;
+    height: 190px;
+    border-radius: 16px;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.i5124 {
+    background-color: rgba(155, 255, 168, 0.205);
+    width: 700px;
+}

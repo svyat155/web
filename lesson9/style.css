@@ -1,0 +1,34 @@
+body {
+    background-color:  #C8E5F5;
+}
+
+.icon {
+    background-image: url('weather_icons.png');
+    background-size: 600%;
+    width: 80px;
+    height: 80px;
+}
+
+.w1 {
+    background-position: 5% 2%;
+}
+
+.w2 {
+    background-position: 95% 2%;
+}
+
+.w3 {
+    background-position: 50% 20%;
+}
+
+.w4 {
+    background-position: 27% 20%;
+}
+
+.w5 {
+    background-position: 5% 2%;
+}
+
+.w6 {
+    background-position: 5% 2%;
+}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+a {
+    font-family: "Neucha",serif;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+.bg1 {
+    background-color: #4D8FC3;
+    width: 1000px;
+    padding: 450px;
+    
+}
+
+.bg2 {
+    background-color: #FAD074;
+}
+
+.bg3 {
+    background-color: #98BFAD;
+}
+
+.bg4 {
+    background-color: #EF8A84;
+}
+
+
+.home {
+    padding: 60px;
+}
+
+

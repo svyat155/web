@@ -1,0 +1,148 @@
+
+header {
+    color: rgb(0, 0, 0);
+    margin: 250px;
+    text-align: center;
+}
+
+body {
+    background-color: #a9e7ff;
+}
+
+a {
+    text-decoration: none;
+}
+
+.HAM {
+    text-decoration: none;
+    background-color: #8aa4ff;
+    padding: 16px;
+    border-radius: 8px;
+    width: 230px;
+    a { padding: 5px; margin: 5px; }
+
+}
+
+
+.опыт2 {
+    background-color: #4f75ffe1;
+    width: 1024px;
+    border-radius: 16px;
+    padding: 8px;
+    margin-bottom: 25px;
+
+    
+}
+
+.опыт3 {
+    background-color: #4f75ffe1;
+    width: 1024px;
+    border-radius: 16px;
+    padding: 8px;
+    margin-bottom: 25px;
+    
+}
+
+
+footer {
+    max-width: 400px;
+    height: 100px;
+    margin: 0 auto;
+    background: rgb(18, 127, 230);
+    border-radius: 16px;
+    padding: 16px;
+    
+  }
+
+
+.образование2 {
+    background-color: #4f75ffe1;
+    width: 1024px;
+    border-radius: 16px;
+    padding: 8px;
+    margin-bottom: 25px;
+}
+
+
+.образование3 {
+    background-color: #4f75ffe1;
+    width: 1024px;
+    border-radius: 16px;
+    padding: 8px;
+    margin-bottom: 50px;
+}
+
+
+.качевства {
+    background-color: #4f75ffe1;
+    width: 1024px;
+    border-radius: 16px;
+    padding: 8px;
+    margin-bottom: 50px;
+}
+
+
+.pyt {
+    color: white;
+    background-color: #4ab8e4e1;
+    width: 350px;
+    border-radius: 32px;
+    padding: 8px;
+    margin-bottom: 30px;
+    height: 130px;
+
+}
+
+.web {
+    color: white;
+    background-color: #4ab8e4e1;
+    width: 350px;
+    border-radius: 32px;
+    padding: 8px;
+    margin-bottom: 30px;
+    height: 130px;
+}
+
+
+.ee {
+    color: rgb(38, 132, 255);
+}
+
+
+.langu {
+    background-color: #37cde7e1;
+    width: 600px;
+    border-radius: 16px;
+    padding: 16px;
+    margin-bottom: 150px;
+    height: 320px;
+}
+
+.P {
+    background-color: #6d98e9e1;
+    width: 100px;
+    border-radius: 16px;
+    padding: 8px;
+    height: 55px;
+    margin-bottom: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.HT {
+    background-color: #6d98e9e1;
+    width: 100px;
+    border-radius: 16px;
+    padding: 8px;
+    height: 55px;
+    margin-bottom: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.CS {
+    background-color: #6d98e9e1;
+    width: 100px;
+    border-radius: 16px;
+    padding: 8px;
+    height: 55px;
+    color: rgb(255, 255, 255);
+}
